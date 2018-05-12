@@ -1,9 +1,8 @@
 _repo: In-Search-of-the-Castaways-A-Romantic-Narrative-of-the-Loss-of-Captain-Grant-of-the-Brig-Brit__46597
+_version: 0.1.0
 covers:
-- cover_type: archival
-  image_path: 46597/46597-h/images/title_page.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Verne, Jules
@@ -24,6 +23,8 @@ description: '""In Search of the Castaways"" is a novel by the French writer Jul
   Sons as a three volume set titled ""A Voyage Round The World"". The three volumes
   were subtitled ""South America"", ""Australia"", and ""New Zealand"", which are
   all included in this publication.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46597#In-Search-of-the-Castaways-A-Romantic-Narrative-of-the-Loss-of-Captain-Grant-of-the-Brig-Brit_
 gutenberg_issued: '2014-08-16'
 gutenberg_type: Text
 identifiers:
